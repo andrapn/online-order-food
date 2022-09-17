@@ -1,0 +1,14 @@
+Open food order app
+choose restaurant to order food
+select menu
+select quantity of food
+finish order?
+    No, back to select menu
+    Yes, continue to Select Payment Method
+Select Payment Method
+    If Select E-Wallet, do
+       Transfer Total Payment
+       Confirmation Payment by System
+    If Select Cash on Delivery, do
+       Confirmation Payment Method by System
+End
